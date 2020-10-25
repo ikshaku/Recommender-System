@@ -1,0 +1,2 @@
+As part of Data Mining project I made this R Shiny App to recommemd movies and music to users. User asked to input three genres of movies they like and also their favourite movie in each genre. Based on that input users will be recommended with 10 top movies that they would like to watch. 
+Project created using R, Shiny App. Datasource IMDB, MovieLens.
